@@ -1,0 +1,9 @@
+3Blue1Brown Gradient Descent
+--------------
+
+Cost function -> How far off from reality the network was
+	-> Take the square difference of (what was expected - what you got)
+	-> Goal of the network is to minimize this function (which means we got the least error possible)
+		-> Analogous to finding the minimum of a function (calculus problem)
+
+	C(w1, w2....wN)
